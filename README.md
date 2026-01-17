@@ -74,3 +74,24 @@ The project follows a clean, structured, and industry-oriented ML workflow, comb
     - Annual Income
 
     - Spending Score
+
+## ▶ How to Run
+
+- Clone the repository
+
+- git clone <repository-url>
+
+
+      - Install dependencies
+
+      - pip install -r requirements.txt
+
+
+- Run the notebook
+
+- Google Colab notebooks/Customer_Segmentation_KMeans.ipynb
+
+✨ Author
+
+Yash Prajapati
+M.Tech (Artificial Intelligence)
